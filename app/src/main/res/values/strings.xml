@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">UIComponent</string>
+    <string name="txtNama">Nama</string>
+    <string name="txtGender">"Gender: "</string>
+    <string name="txtHobi">"Hobi: "</string>
+    <string name="txtPria">PRIA</string>
+    <string name="txtWanita">WANITA</string>
+    <string name="txtCoding">Coding</string>
+    <string name="txtReading">Reading</string>
+    <string name="txtTravelling">Travelling</string>
+    <string name="todo">TODO</string>
+    <string name="todo1">TODO</string>
+</resources>
